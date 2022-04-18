@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/whishlist"
+        android:title="Wishlist"
+        android:icon="@drawable/ic_heart_svgrepo_com"/>
+    <item
+        android:id="@+id/scan"
+        android:title="Scan"
+        android:icon="@drawable/ic_scan_svgrepo_com"/>
+
+    <item
+        android:id="@+id/Collection"
+        android:title="Collection"
+        android:icon="@drawable/ic_suitcase_svgrepo_com"/>
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_outline_24"/>
+
+</menu>

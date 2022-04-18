@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Solu Lab</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="_30_coins">30 coins</string>
+    <string name="available_to_buy">Available To buy</string>
+    <string name="see_all"><u>See all</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_n_lorem_ipsum">Scan \n Lorem ipsum dolor sit \n amet,consecteur</string>
+    <string name="sell_n_lorem_ipsum">Sell \n Lorem ipsum dolor sit \n amet,consecteur</string>
+</resources>
